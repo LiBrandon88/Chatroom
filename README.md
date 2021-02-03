@@ -1,5 +1,5 @@
 # Chatroom
-A c program that works as a chatroom that holds multiple users
+A multi-threaded program using network sockers and mutex to create a chatroom for users to join.
 
 To use:
 
